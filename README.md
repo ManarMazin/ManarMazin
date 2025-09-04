@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 **Back-End:** PHP, MySQL  
+- 💻 **Back-End:** PHP, MySQL,Node js
 - 🎨 **Front-End:** HTML, CSS, JavaScript  
 - 🧰 **Tools:** Git, GitHub, XAMPP, VS Code  
 
