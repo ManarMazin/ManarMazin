@@ -5,8 +5,8 @@
 
 - 🛒 Design and develop **full-featured e-commerce websites**
 - 🎓 Build **interactive educational platforms**
-- 🌐 Create responsive and modern UIs with HTML, CSS, JavaScript
-- ⚙️ Manage databases and backend logic using PHP and MySQL
+- 🌐 Create responsive and modern UIs with HTML, CSS, JavaScript,vuejs
+- ⚙️ Manage databases and backend logic using Node js,PHP and MySQL 
 - 🔐 Implement secure login systems and user authentication
 
 ## 🛠️ Tech Stack
